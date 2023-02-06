@@ -1,4 +1,4 @@
-//!!InfoByte Internship Task-3(ATM Interface), done by Manikanth!!//
+//!!Oasis InfoByte Internship Task-3(ATM Interface), done by Manikanth!!//
 import java.util.Scanner;
 class ATM {
 int balance = 2000;
@@ -101,4 +101,4 @@ public static void main(String[] args) {
 ATM object = new ATM();
 object.pin();
 }}
-//!!InfoByte Internship Task-3(ATM Interface), done by Manikanth!!//
+//!!Oasis InfoByte Internship Task-3(ATM Interface), done by Manikanth!!//
